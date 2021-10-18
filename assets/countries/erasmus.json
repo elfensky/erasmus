@@ -1,0 +1,40 @@
+{
+	"EU": [
+		"Belgium",
+		"Greece",
+		"Lithuania",
+		"Portugal",
+		"Bulgaria",
+		"Spain",
+		"Luxembourg",
+		"Romania",
+		"Czech Republic",
+		"France",
+		"Hungary",
+		"Slovenia",
+		"Denmark",
+		"Croatia",
+		"Malta",
+		"Slovakia",
+		"Germany",
+		"Italy",
+		"Netherlands",
+		"Finland",
+		"Estonia",
+		"Cyprus",
+		"Austria",
+		"Sweden",
+		"Ireland",
+		"Latvia",
+		"Poland",
+		"United Kingdom"
+	],
+	"Other": [
+		"Republic of North Macedonia",
+		"Iceland",
+		"Norway",
+		"Liechtenstein",
+		"Turkey",
+		"Serbia"
+	]
+}
